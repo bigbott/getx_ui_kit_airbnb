@@ -1,0 +1,7 @@
+analyzer:
+  errors:
+    constant_identifier_names: ignore
+    prefer_const_constructors: ignore
+    prefer_const_literals_to_create_immutables: ignore
+    sized_box_for_whitespace: ignore
+include: package:flutter_lints/flutter.yaml

@@ -1,0 +1,26 @@
+name: getx_ui_kit_property
+version: 0.1.0
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies: 
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  syncfusion_flutter_datepicker: ^26.2.9
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/svg/
+
